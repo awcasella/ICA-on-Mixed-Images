@@ -4,7 +4,7 @@ Usage of ICA to separate two mixed images, based on Nathan Kutz lecture.
 
 # About this project
 
-Usage of Independent Component Analysis technique for finding independent components of two mixed images and separating them.
+Implementation of ICA (a.k.a. Independent Component Analysis) to separate two images which were mixed. This code is based on the lecture of Nathan Kutz, professor of Applied Math at Washington University. For this technique to work, it is imperative that all original components to be **INDEPENDENT AND NON GAUSSIAN**, so that they can be separated.
 
 # Getting Started
 
@@ -19,7 +19,7 @@ Instalation of Anaconda in Linux Ubuntu 18.04 can be found
 
 **Python dependencies**
 
-To run the python scripts, you'll need to import all of the libraries below:
+To run the notebook, you'll need to import all of the libraries below:
 
 	$ pip3 install numpy
 
