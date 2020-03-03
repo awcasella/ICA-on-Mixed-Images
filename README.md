@@ -10,12 +10,7 @@ Implementation of ICA (a.k.a. Independent Component Analysis) to separate two im
 
 **Prerequisites**
 
-To run the algorithms in this repo, you'll need to have Python 3 (and Anaconda) installed.
-
-**Installing Anaconda**
-
-Instalation of Anaconda in Linux Ubuntu 18.04 can be found 
-<a href="https://www.digitalocean.com/community/tutorials/how-to-install-the-anaconda-python-distribution-on-ubuntu-18-04" target="_blank">here</a>.
+To run the algorithms in this repo, you'll need to have Python 3 installed.
 
 **Python dependencies**
 
